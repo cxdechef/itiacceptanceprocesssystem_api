@@ -1,0 +1,6 @@
+@ITIAcceptanceProcessSystem_HostAddress = http://localhost:5191
+
+GET {{ITIAcceptanceProcessSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
